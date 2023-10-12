@@ -1,0 +1,150 @@
+.panel {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -moz-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    -webkit-box-shadow: 0 2px 6px rgb(0 0 0 / 8%);
+    box-shadow: 0 2px 6px rgb(0 0 0 / 8%);
+    background-color: #fff;
+    margin-bottom: 30px;
+}
+.panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+    box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+}
+
+.panel .panel-heading {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: relative;
+}
+.panel .panel-heading, .panel .panel-body, .panel .panel-footer {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.panel .panel-body {
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.panel .panel-heading, .panel .panel-body, .panel .panel-footer {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.panel-body {
+    padding: 15px;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.metric {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    padding: 20px;
+    margin-bottom: 30px;
+    border: 1px solid #DCE6EB;
+}
+
+.metric .icon {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    float: left;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    background-color: #0081c2;
+    text-align: center;
+}
+.metric p {
+    margin-bottom: 0;
+    line-height: 1.2;
+    text-align: right;
+}
+p {
+    margin: 0 0 10px;
+}
+
+.metric .title {
+    font-size: 16px;
+}
+div {
+    display: block;
+}
+.metric .icon {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    float: left;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    background-color: #0081c2;
+    text-align: center;
+    color: #fff;
+}
+.metric .number {
+    display: block;
+    font-size: 28px;
+    font-weight: 300;
+}
+
+.weekly-summary {
+    margin-bottom: 30px;
+    font-weight: 300;
+}
+
+.weekly-summary .number {
+    font-size: 36px;
+}
+
+.weekly-summary .percentage {
+    position: relative;
+    top: -7px;
+}
+
+.weekly-summary .info-label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+
+.panel .panel-heading, .panel .panel-body, .panel .panel-footer {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.panel-footer {
+    background-color: #fafafa;
+}
+.panel-footer {
+    padding: 10px 15px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.btn-primary {
+    background-color: #00AAFF;
+    border-color: #00a0f0;
+}
+.btn {
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 1px 2px 0 rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0px 1px 2px 0 rgb(0 0 0 / 20%);
+    box-shadow: 0px 1px 2px 0 rgb(0 0 0 / 20%);
+    padding: 6px 22px;
+}
